@@ -1,4 +1,5 @@
-![Crates.io](https://img.shields.io/crates/d/phone-number-verifier?style=for-the-badge)
+![Crates.io](https://img.shields.io/crates/d/phone-number-verifier?style=flat-square)
+![docs.rs](https://img.shields.io/docsrs/phone-number-verifier?style=flat-square)
 
 # Phone Number Verifier
 *phone number verification library for rust*
