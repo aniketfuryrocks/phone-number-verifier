@@ -1,0 +1,9 @@
+[package]
+name = "phone-number-verifier"
+version = "1.0.0"
+edition = "2018"
+license = "MIT"
+
+[dependencies]
+lazy_static = "1.4.0"
+regex = "1.5.4"
