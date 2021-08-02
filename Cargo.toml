@@ -1,8 +1,10 @@
 [package]
 name = "phone-number-verifier"
+description = "phone number verification library for rust"
 version = "1.0.0"
 edition = "2018"
 license = "MIT"
+repository = "https://github.com/aniketfuryrocks/phone-number-verifier"
 
 [dependencies]
 lazy_static = "1.4.0"
